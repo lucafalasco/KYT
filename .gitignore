@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# testing
+coverage/
+
+# production
+build/
+dist/
+
+# misc
+.DS_Store
+.env
+.eslintcache
+.vscode
+
+# npm and yarn log
+*.log
