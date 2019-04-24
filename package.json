@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "accurapp-scripts start",
-    "build": "accurapp-scripts build",
+    "build": "PUBLIC_URL=/KYT accurapp-scripts build",
     "lint": "accurapp-scripts lint",
     "prettier": "accurapp-scripts prettier"
   },
