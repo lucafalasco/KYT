@@ -1,4 +1,4 @@
-#KYT
+# KYT
 
 KYT shows cryptocurrencies trends in a customizable time range.
 
